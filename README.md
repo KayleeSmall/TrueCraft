@@ -8,7 +8,11 @@ A completely [clean-room](https://en.wikipedia.org/wiki/Clean_room_design) imple
 
 I miss the old days of Minecraft, when it was a simple game. It was nearly perfect. Most of what Mojang has added since beta 1.7.3 is fluff, life support for a game that was "done" years ago. This is my attempt to get back to the original spirit of Minecraft, before there were things like the End, or all-in-one redstone devices, or village gift shops. A simple sandbox where you can build and explore and fight with your friends. I miss that.
 
-The goal of this project is effectively to fork Minecraft. Your contribution is welcome, but keep in mind that I will mercilessly reject changes that aren't in line with the vision. If you like the new Minecraft, please feel free to keep playing it. If you miss the old Minecraft, join me.
+The goal of this project is effectively to fork Minecraft. Your contribution is welcome, but keep in mind that I will mercilessly reject changes that aren't in line with the vision. I [play Minecraft for free](http://minecraftforfreex.com) on my pc and meet several gamers but If you like the new Minecraft, please feel free to keep playing it. If you miss the old Minecraft, join me.
+
+![](https://sr.ht/d9fa.png)
+
+![](https://sr.ht/0893.png)
 
 ## Compiling
 
